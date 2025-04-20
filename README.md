@@ -1,2 +1,2 @@
 # hello-kr
-Explore what I like
+1
