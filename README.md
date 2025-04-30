@@ -1,2 +1,2 @@
 # hello-kr
-1
+print("你好")
